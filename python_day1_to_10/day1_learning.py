@@ -1,0 +1,6 @@
+print("namaste")
+print("which city do you live in ?\n")
+city = input()
+print("name of your pet ?\n")
+pet = input()
+print("band name is " + city + " " + pet)
