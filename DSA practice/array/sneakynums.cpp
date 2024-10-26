@@ -1,7 +1,7 @@
 #include<iostream>
 #include<vector>
 using namespace std;
-int Main() {
+int main() {
     vector<int> nums{1,2,3,2,1};
     vector<int> sneaky;
     int n=nums.size();
