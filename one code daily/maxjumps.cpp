@@ -2,7 +2,7 @@
 #include<vector>
 using namespace std;
 int main(){
-    vector<int> nums{2,1,1,4};
+    vector<int> nums{3,2,1,0,4};
     int curr_end=0;int jumps=0; int furthest = 0;
     int n = nums.size();
     for(int i=0;i<n-1;i++){
@@ -14,7 +14,15 @@ int main(){
         if(curr_end>=n-1){
             break;
         }
+        // cout<<jumps<<endl;
+        
     }
-    cout<<jumps;
+    if(nums[curr_end]==furthest){
+            cout<<"true";
+        }
+        else{
+            cout<<"false";
+        }
+    
     return 0; 
 }
