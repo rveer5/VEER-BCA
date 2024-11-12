@@ -2,7 +2,7 @@
 #include<vector>
 using namespace std;
 int main(){
-    vector<int> v1{1,2,3,9};
+    vector<int> v1{9,9,9,9};
     int n=v1.size();
     for(int i=n-1;i>=0;i--){
         if(v1[i]<9){
