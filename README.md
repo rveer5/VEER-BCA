@@ -16,7 +16,7 @@ Projects
 VEER-BCA Repository: My personal project repository where I share algorithmic solutions and data structure-based implementations.
 GitHub link
 Let's Connect!
-LinkedIn: [Your LinkedIn Link]
+LinkedIn: https://www.linkedin.com/in/veer-pratap-singh-rathore-80b98b285/overlay/contact-info/
 Email: rveerpsr789@gmail.com
 
 Feel free to explore my repositories 😊!!
