@@ -46,6 +46,7 @@ m=matrix(c(1,2,3,11,12,13),nrow = 3,ncol = 2)
 
 # by default values will  be arranged column wise .
 m2=matrix(c(1,2,3,11,12,13,33,44,55),nrow = 3,ncol = 3)
+m2
 
 # to assemble row wise use by row attribute .
 m3=matrix(c(1,2,3,11,12,13,33,44,55),nrow = 3,ncol = 3,byrow = TRUE)

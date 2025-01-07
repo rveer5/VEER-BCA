@@ -10,7 +10,7 @@ class shivay
         System.out.println("Enter the number : ");
         int num =s.nextInt();
         System.out.println("entered number is : "+num);
-        
+        s.close();
 
 
 

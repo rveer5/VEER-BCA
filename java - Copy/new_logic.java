@@ -8,7 +8,6 @@ class Veer
         ArrayList<Integer> arr = new ArrayList<>();
         int i=0;
         int j=0;
-        int element=0;
         int arr1[]={2,4,6,8};
         int arr2[]={2,4,6,6};
         int n =arr1.length;
